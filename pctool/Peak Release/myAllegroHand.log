@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(Peak Release\)에 다른 프로젝트(libBHand.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  myAllegroHand.cpp
+C:\Users\user\OneDrive - (주)원익로보틱스\바탕 화면\wonik_hand\allegro_hand_v5\WINDOWS\3-13. bhand_visual_studio_20241016_V5(4F)Plus\pctool\myAllegroHand.cpp(203,56): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 30 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  myAllegroHand.vcxproj -> C:\Users\user\OneDrive - (주)원익로보틱스\바탕 화면\wonik_hand\allegro_hand_v5\WINDOWS\3-13. bhand_visual_studio_20241016_V5(4F)Plus\pctool\Peak Release\myAllegroHand.exe

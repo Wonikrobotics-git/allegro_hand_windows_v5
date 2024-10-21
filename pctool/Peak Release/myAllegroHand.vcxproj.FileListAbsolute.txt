@@ -1,0 +1,21 @@
+C:\allegrohand\3-1. bhand_visual_studio_20231016\pc tool\Peak Release\myAllegroHand.exe
+C:\allegrohand\3. bhand_visual_studio\3-2. bhand_visual_studio_20231101(robotis)\pc tool\Peak Release\myAllegroHand.exe
+C:\allegrohand\3. bhand_visual_studio\3-4. bhand_visual_studio_20231129(robotis)\pc tool\Peak Release\myAllegroHand.exe
+C:\allegrohand\3. bhand_visual_studio\3-4. bhand_visual_studio_20231211(robotis_gravity)\pc tool\Peak Release\myAllegroHand.exe
+C:\allegrohand\3. bhand_visual_studio\3-6. bhand_visual_studio_20240125_fingertip\pc tool\Peak Release\myAllegroHand.exe
+C:\Users\user\Desktop\wonik_hand\hand\PC(Windows)\3-6. bhand_visual_studio_20240125_fingertip\pc tool\Peak Release\myAllegroHand.exe
+C:\Users\user\Desktop\wonik_hand\allegrohand V5\pc tool\Peak Release\myAllegroHand.exe
+C:\Users\user\Desktop\wonik_hand\allegrohandV5_생산tool\pc tool\Peak Release\myAllegroHand.exe
+C:\Users\user\Desktop\wonik_hand\allegrohandV5_생산tool\pctool\Peak Release\myAllegroHand.exe
+D:\wonik hand\백업\0731_windows_v5_4finger_test tool\allegrohandV5_생산tool\pctool\Peak Release\myAllegroHand.exe
+C:\Users\user\Desktop\wonik_hand\allegrohandV5_파지알고리즘개선\pctool\Peak Release\myAllegroHand.exe
+C:\Users\user\Desktop\wonik_hand\DH_parameter\4finger_Hand_0825_v5\allegrohandV5_kinematics_4finger\pctool\Peak Release\myAllegroHand.exe
+C:\Users\user\Desktop\wonik_hand\allegrohandV5_kinematics_4finger\pctool\Peak Release\myAllegroHand.exe
+C:\Users\user\Desktop\wonik_hand\3-13.bhand_visual_studio_20240829_Geared4Finger\pctool\Peak Release\myAllegroHand.exe
+C:\Users\user\Desktop\wonik_hand\allegro_hand_v5\WINDOWS\3-13. bhand_visual_studio_20240830_Geared4Finger\pctool\Peak Release\myAllegroHand.exe
+C:\Users\user\OneDrive - (주)원익로보틱스\바탕 화면\wonik_hand\allegro_hand_v5\WINDOWS\3-13. bhand_visual_studio_20240830_Geared4Finger\pctool\Peak Release\myAllegroHand.exe
+C:\Users\user\OneDrive - (주)원익로보틱스\바탕 화면\wonik_hand\allegro_hand_v5\WINDOWS\3-13. bhand_visual_studio_20240910_Geared4Finger\pctool\Peak Release\myAllegroHand.exe
+C:\Users\user\OneDrive - (주)원익로보틱스\바탕 화면\wonik_hand\allegro_hand_v5\WINDOWS\3-13. bhand_visual_studio_20240911_V5(4F)Plus\pctool\Peak Release\myAllegroHand.exe
+C:\Users\user\OneDrive - (주)원익로보틱스\바탕 화면\wonik_hand\allegro_hand_v5\WINDOWS\3-13. bhand_visual_studio_20240930_V5(4F)Plus\pctool\Peak Release\myAllegroHand.exe
+C:\Users\user\OneDrive - (주)원익로보틱스\바탕 화면\wonik_hand\allegro_hand_v5\WINDOWS\3-13. bhand_visual_studio_20241002_V5(4F)Plus\pctool\Peak Release\myAllegroHand.exe
+C:\Users\user\OneDrive - (주)원익로보틱스\바탕 화면\wonik_hand\allegro_hand_v5\WINDOWS\3-13. bhand_visual_studio_20241016_V5(4F)Plus\pctool\Peak Release\myAllegroHand.exe
