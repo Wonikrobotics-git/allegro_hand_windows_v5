@@ -15,8 +15,9 @@ Instructions
  4. Navigate to Configuration Properties > Debugging and set the Working Directory to 'bin'
  5. Open myAllegroHand.cpp and, near the top, find comment '// USER HAND CONFIGURATION' and the constants below it
 
- 6. bool RIGHT_HAND: Set to 'true' if using a right AH and false if using left
- 7. const int HAND_VERSION: For version 5.x, set to '5'.
+ 6. bool RIGHT_HAND: Set to 'true' if using a right AH and 'false' if using left AH based on Serial number
+ 7. bool HAND_TYPE_A: Set to 'true' if using a non-Geared AH and 'false' if using Geared AH based on Serial number
+ 8. const int HAND_VERSION: For version 5.x, set to '5'.
  
 You are now ready to compile, plug in and turn on your hand, and test the program.
 
