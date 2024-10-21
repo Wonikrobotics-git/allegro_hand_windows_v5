@@ -21,7 +21,7 @@ Instructions
 You are now ready to compile, plug in and turn on your hand, and test the program.
 
 Keyboard commands can be used to execute grasps and other joint configurations. 
-See the instructions printed at the beginning of the application.
+See the instructions printed at the User manual or at the beginning of the application.
 
 =====
 
