@@ -1,14 +1,10 @@
-allegro_hand_windows (v4)
+allegro_hand_windows (v5)
 ====================
 
 This application is lightweight control and communication software for the Allegro Hand (AH) using Windows.
 
 myAllegroHand*.exe:
  Allegro Hand control and CAN communication module.
-
-rPanelManipulator.exe 
- GUI Interface for executing different control and grasp modes
- 
  
 Instructions
 ============ 
@@ -19,8 +15,8 @@ Instructions
  4. Navigate to Configuration Properties > Debugging and set the Working Directory to 'bin'
  5. Open myAllegroHand.cpp and, near the top, find comment '// USER HAND CONFIGURATION' and the constants below it
 
- 6. const bool RIGHT_HAND: Set to 'true' if using a right AH and false if using left
- 7. const int HAND_VERSION: For version 4.x, set to '4'.
+ 6. bool RIGHT_HAND: Set to 'true' if using a right AH and false if using left
+ 7. const int HAND_VERSION: For version 5.x, set to '5'.
  
 You are now ready to compile, plug in and turn on your hand, and test the program.
 
@@ -67,5 +63,4 @@ For more information regarding setting the project properties, etc., please see 
 
 **Questions?**
 
-Please email Sean Yi
-seanyi@wonikrobotics.com
+Please use AllegroHand official Forum : 
