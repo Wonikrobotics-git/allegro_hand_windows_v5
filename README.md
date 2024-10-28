@@ -23,7 +23,15 @@ You are now ready to compile, plug in and turn on your hand, and test the progra
 Keyboard commands can be used to execute grasps and other joint configurations. 
 See the instructions printed at the User manual or at the beginning of the application.
 
-=====
+============
+Control more than one hand
+
+1. Open up the solution, myAllegroHand.sln, in Visual Studio.
+2. Specify PCAN_USBBUS`N`.
+3. Debug and start the program.
+
+============
+
 
 Allegro Hand Standalone Visual Studio Project and Source
 
