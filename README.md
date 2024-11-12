@@ -4,7 +4,9 @@ This application is lightweight control and communication software for the Alleg
 
 Peak Release/myAllegroHand*.exe:
 
- Allegro Hand control and CAN communication module. You can easily test your hand with this program. 
+ Allegro Hand control and CAN communication module. You can easily test your hand with this program.
+
+**Recommend to read User's manual**
  
 Programming Instructions
 ============ 
