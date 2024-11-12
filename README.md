@@ -3,6 +3,7 @@
 This application is lightweight control and communication software for the Allegro Hand (AH) using Windows.
 
 PEAK Release/myAllegroHand*.exe:
+
  Allegro Hand control and CAN communication module. You can easily test your hand with this program. 
  
 Instructions
