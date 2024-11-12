@@ -32,7 +32,7 @@ See the instructions printed at the User manual or at the beginning of the appli
 
 =============================
 
-Allegro Hand Standalone Visual Studio Project and Source
+# Allegro Hand Standalone Visual Studio Project and Source
 
 This file contains a summary of what you will find in each of the files that make up your myAllegroHand application.
 
