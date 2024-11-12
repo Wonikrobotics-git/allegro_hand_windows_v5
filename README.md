@@ -2,7 +2,7 @@
 
 This application is lightweight control and communication software for the Allegro Hand (AH) using Windows.
 
-PEAK Release/myAllegroHand*.exe:
+Peak Release/myAllegroHand*.exe:
 
  Allegro Hand control and CAN communication module. You can easily test your hand with this program. 
  
@@ -11,7 +11,7 @@ Programming Instructions
 
  1. Open up the solution, myAllegroHand.sln, in Visual Studio
  2. Right click the project 'myAllegroHand' in the Solution Explorer and click 'Properties'
- 3. At the top of the 'Property Pages' window, set Configuration to 'PEAK Release'
+ 3. At the top of the 'Property Pages' window, set Configuration to 'Peak Release'
  4. Navigate to Configuration Properties > Debugging and set the Working Directory to 'bin'
  5. Open myAllegroHand.cpp and, near the top, find comment '// USER HAND CONFIGURATION' and the constants below it
 
