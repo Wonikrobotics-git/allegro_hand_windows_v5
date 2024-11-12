@@ -6,7 +6,7 @@ PEAK Release/myAllegroHand*.exe:
 
  Allegro Hand control and CAN communication module. You can easily test your hand with this program. 
  
-Instructions
+Programming Instructions
 ============ 
 
  1. Open up the solution, myAllegroHand.sln, in Visual Studio
