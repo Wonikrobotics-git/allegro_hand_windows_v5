@@ -13,13 +13,16 @@ Programming Instructions
 
  1. Open up the solution, myAllegroHand.sln, in Visual Studio
  2. Right click the project 'myAllegroHand' in the Solution Explorer and click 'Properties'
- 3. At the top of the 'Property Pages' window, set Configuration to 'Peak Release'
- 4. Navigate to Configuration Properties > Debugging and set the Working Directory to 'bin'
- 5. Open myAllegroHand.cpp and, near the top, find comment '// USER HAND CONFIGURATION' and the constants below it
+ 3. At the top of the 'Property Pages' window, set Configuration to 'Peak Release' and check property below.
+    <img width="896" alt="1" src="https://github.com/user-attachments/assets/aaa21316-c324-4c23-96c8-a309e0bb1b85">
+<img width="892" alt="2" src="https://github.com/user-attachments/assets/c63dcf9f-ae3e-4c5e-adfe-6ed8c13babfb">
+<img width="896" alt="3" src="https://github.com/user-attachments/assets/dc3119c7-e4ec-4fcd-bd1d-7c56a3c41842">
 
- 6. bool RIGHT_HAND: Set to 'true' if using a right AH and 'false' if using left AH based on Serial number
- 7. bool HAND_TYPE_A: Set to 'true' if using a non-Geared AH and 'false' if using Geared AH based on Serial number
- 8. const int HAND_VERSION: For version 5.x, set to '5'.
+ 4. Open myAllegroHand.cpp and, near the top, find comment '// USER HAND CONFIGURATION' and the constants below it
+
+ 5. bool RIGHT_HAND: Set to 'true' if using a right AH and 'false' if using left AH based on Serial number
+ 6. bool HAND_TYPE_A: Set to 'true' if using a non-Geared AH and 'false' if using Geared AH based on Serial number
+ 7. const int HAND_VERSION: For version 5.x, set to '5'.
  
 You are now ready to compile, plug in and turn on your hand, and test the program.
 
