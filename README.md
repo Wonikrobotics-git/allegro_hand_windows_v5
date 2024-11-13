@@ -15,8 +15,8 @@ Programming Instructions
  2. Right click the project 'myAllegroHand' in the Solution Explorer and click 'Properties'
  3. At the top of the 'Property Pages' window, set Configuration to 'Peak Release' and check property below.
     <img width="896" alt="1" src="https://github.com/user-attachments/assets/aaa21316-c324-4c23-96c8-a309e0bb1b85">
-<img width="892" alt="2" src="https://github.com/user-attachments/assets/c63dcf9f-ae3e-4c5e-adfe-6ed8c13babfb">
-<img width="896" alt="3" src="https://github.com/user-attachments/assets/dc3119c7-e4ec-4fcd-bd1d-7c56a3c41842">
+    <img width="892" alt="2" src="https://github.com/user-attachments/assets/c63dcf9f-ae3e-4c5e-adfe-6ed8c13babfb">
+    <img width="896" alt="3" src="https://github.com/user-attachments/assets/dc3119c7-e4ec-4fcd-bd1d-7c56a3c41842">
 
  4. Open myAllegroHand.cpp and, near the top, find comment '// USER HAND CONFIGURATION' and the constants below it
 
