@@ -1,6 +1,6 @@
 # allegro_hand_windows_v5
 
-This application is lightweight control and communication software for the Allegro Hand (AH) using Windows.
+This application is lightweight control and communication software for the Allegro Hand (AH) V5 4Finger using Windows.
 
 Peak Release/myAllegroHand*.exe:
 
