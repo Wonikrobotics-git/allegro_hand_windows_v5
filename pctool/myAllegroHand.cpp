@@ -19,6 +19,7 @@
 #include "rDeviceAllegroHandCANDef.h"
 #include "rPanelManipulatorCmdUtil.h"
 #include "BHand/BHand.h"
+#include "RockScissorsPaper.h"
 /////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////
 // IMPORTANT !!
@@ -78,6 +79,32 @@ int GetCANChannelIndex(const TCHAR* cname);
 bool CreateBHandAlgorithm();
 void DestroyBHandAlgorithm();
 void ComputeTorque();
+
+static double rock[] = {
+	-0.1194, 1.2068, 1.0, 1.4042,
+	-0.0093, 1.2481, 1.4073, 0.8163,
+	0.1116, 1.2712, 1.3881, 1.0122,
+	0.6017, 0.2976, 0.9034, 0.7929 };
+
+static void SetGainsRSP()
+{
+	// This function should be called after the function SetMotionType() is called.
+	// Once SetMotionType() function is called, all gains are reset using the default values.
+	if (!pBHand) return;
+	double kp[] = {
+		1.0, 1.0, 1.0, 1.0,
+		1.0, 1.0, 1.0, 1.0,
+		1.0, 1.0, 1.0, 1.0,
+		0.8, 0.8, 0.8, 0.8
+	};
+	double kd[] = {
+		0.05, 0.12, 0.05, 0.05,
+		0.05, 0.12, 0.05, 0.05,
+		0.05, 0.12, 0.05, 0.05,
+		0.03, 0.03, 0.03, 0.03
+	};
+	pBHand->SetGainsEx(kp, kd);
+}
 
 /////////////////////////////////////////////////////////////////////////////////////////
 // CAN communication thread
@@ -328,6 +355,16 @@ void MainLoop()
 				OperatingMode = 0;
 				command_place(CAN_Ch);
 				break;
+
+			case '1':
+				for (int i = 0; i < 16; i++)
+					q_des[i] = rock[i];
+				if (pBHand) pBHand->SetMotionType(eMotionType_JOINT_PD);
+				//Customize PD GAIN using SetGainRSP() if you want
+				//SetGainsRSP();
+				command_place(CAN_Ch);
+				break;
+
 
 			}
 		}

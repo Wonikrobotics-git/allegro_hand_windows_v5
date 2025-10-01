@@ -48,6 +48,7 @@ enum eMotionType
 	eMotionType_PINCH_IT,			///< pinching using index finger and thumb
 	eMotionType_PINCH_MT,			///< pinching using middle finger and thumb
 	eMotionType_ENVELOP,			///< enveloping
+	eMotionType_JOINT_PD,			///< joint PD control
 	eMotionType_A,
 	eMotionType_B,
 	NUMBER_OF_MOTION_TYPE
@@ -192,6 +193,7 @@ private:
 	void Motion_PinchIT();
 	void Motion_PinchMT();
 	void Motion_Envelop();
+	void Motion_JointPD();
 	
 private:
 	double _dT;							///< control time step (second)
