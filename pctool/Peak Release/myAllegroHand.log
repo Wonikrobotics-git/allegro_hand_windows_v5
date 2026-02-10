@@ -1,9 +1,12 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Peak Release\) contains files shared from another project (libBHand.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
   myAllegroHand.cpp
-C:\Users\user\OneDrive - (주)원익로보틱스\바탕 화면\allegro_hand_windows_v5-master-4finger\pctool\myAllegroHand.cpp(227,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Downloads\allegro_hand_windows_v5-master-4finger (5)\allegro_hand_windows_v5-master-4finger\pctool\myAllegroHand.cpp(227,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  RockScissorsPaper.cpp
+  canAPI.cpp
   Generating code
-  4 of 30 functions (13.3%) were compiled, the rest were copied from previous compilation.
+  29 of 30 functions (96.7%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  myAllegroHand.vcxproj -> C:\Users\user\OneDrive - (주)원익로보틱스\바탕 화면\allegro_hand_windows_v5-master-4finger\pctool\Peak Release\myAllegroHand.exe
+  myAllegroHand.vcxproj -> C:\Users\user\Downloads\allegro_hand_windows_v5-master-4finger (5)\allegro_hand_windows_v5-master-4finger\pctool\Peak Release\myAllegroHand.exe
