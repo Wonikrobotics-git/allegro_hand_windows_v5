@@ -170,9 +170,9 @@ static unsigned int __stdcall ioThreadProc(void* inst)
 					// set grasping force based on fingertip_sensor sum
 					if (OperatingMode == 0) {
 					if(fingertip_sensor[0]+ fingertip_sensor[1]+ fingertip_sensor[2]+ fingertip_sensor[3] > 400)
-						f[0] = f[1] = f[2] = f[3] = 2;
+						f[0] = f[1] = f[2] = f[3] = 2.0;
 					else
-						f[0] = f[1] = f[2] = f[3] = 1.0;
+						f[0] = f[1] = f[2] = f[3] = 1.5;
 					}
 
 					// if Geared motor type
